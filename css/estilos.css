@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainicio
+{background:#003}
+
+#tituolo
+{background:#66F; color: #CFF}
+
+#pienombre
+{color:#900; background-image:url(../Imagenes%20alcohol/sub.jpg)}
+
+#introduccion
+{ color:#000; background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#093), to(#FF0)) ; width:100%; margin:0%}
+
+#TITULOal
+
+{background:#FF0; color:#000000}
+
+#introduccional
+{ color:#FFF; background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#CF0), to(#96F)); width:90%; margin:1%}
+
+#colordiv
+{
+background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#06F), to(#FF4E28))}
+#coloresdiv2
+{background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#FC0), to(#3FC))}
+
+#cuadroregre
+{
+	background-color: #999;
+	color: #999;
+	width: 60px;
+	height:60px;
+	padding: 10px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	box-shadow: 9px -6px 3px #000;
+	-webkit-box-shadow: 9px -6px 3px #000;
+	-moz-box-shadow: 9px -6px 3px #000;
+     float:left; 
+}
+ #cuadroregre2
+{
+	background-color: #999;
+	color: #fff;
+	width: 60px;
+	height:60px;
+	padding: 10px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	box-shadow: 9px -6px 3px #000;
+	-webkit-box-shadow: 9px -6px 3px #000;
+	-moz-box-shadow: 9px -6px 3px #000;
+     float: right; 
+}
+
+#cuadroregre3
+{
+
+	background-color: #999;
+	color: #fff;
+	width: 120px;
+	height:50px;
+
+}
